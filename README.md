@@ -1,8 +1,7 @@
 # Accessible pedestrian signal recordings
-------
 
 To be used as a companion of [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA)    
-Author
+## Author
 -------
 Mario Monge Ordonez
 <sup>1</sup>    
