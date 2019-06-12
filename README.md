@@ -1,10 +1,8 @@
 # Accessible pedestrian signal recordings
 
 To be used as a companion of [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA)    
-## Author
-Mario Monge Ordonez<sup>1</sup>    
-Sharon Corrales Montero<sup>1</sup>    
-Juan Manuel Fonseca-Solís<sup>1,2</sup>    
+## Authors
+Mario Monge Ordonez<sup>1</sup>, Sharon Corrales Montero<sup>1</sup>, Juan Manuel Fonseca-Solís<sup>1,2</sup>    
 <sup>1</sup> Research Center in Information and Communication Technologies ([CITIC](http://www.citic.ucr.ac.cr/)) at [UCR](https://www.ucr.ac.cr/).  
 <sup>2</sup> Electronics School ([IE](http://www.ie.tec.ac.cr)) at [TEC](http://www.tec.ac.cr).  
 
