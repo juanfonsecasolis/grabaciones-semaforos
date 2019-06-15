@@ -1,18 +1,20 @@
 # Accessible pedestrian signal recordings
 
-Recordings used on the study [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA), originally compiled by Mario Monge Ordonez<sup>1</sup> and Sharon Corrales Montero<sup>1</sup> on 2013 (Samsung ACE and Galaxy). LG recordings gathered by Juan Manuel Fonseca-Solís<sup>1,2</sup> on 2013.    
+Recordings used on the study [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA), originally compiled by Mario Monge Ordonez<sup>1</sup> and Sharon Corrales Montero<sup>1</sup> on 2013 using a _Samsung ACE and Galaxy_. LG recordings were later gathered by Juan Manuel Fonseca-Solís<sup>1,2</sup> on 2017.  
+
+## Affiliations    
 <sup>1</sup> Research Center in Information and Communication Technologies ([CITIC](http://www.citic.ucr.ac.cr/)) at [UCR](https://www.ucr.ac.cr/).  
 <sup>2</sup> Electronics School ([IE](http://www.ie.tec.ac.cr)) at [TEC](http://www.tec.ac.cr).  
 
 ## Filename format
-The filenames follows the format `TDsemNSyyyy_MM_dd_hh_mm_ss.wav`, where:
-* T stands for the type of sound (`n`for noise and `s` for accessible pedestrian signal (APS) sound)
-* D stands for the device (`a` for _Samsung Galaxy Ace, `d` for _Samsung Duos_, `l` for LG G2 mini)
-* N stands for the APS identifier of the semaphores annotated on location1.png and location2.png
-* S stands for the side of the street where the recording was taken (`or` for otherside of the APS unit, `s` for next to the APS unit)
-* yyyy_MM_dd_hh_mm_ss is the date format specifying year, month, day, hour (24h format) minute, and second when the recording was taken
+The filenames follow the format `TDsemNSyyyy_MM_dd_hh_mm_ss.wav`, where:
+* T is the type of sound (`n`for noise and `s` for accessible pedestrian signal (APS) sound)
+* D is the device (`a` for _Samsung Galaxy Ace, `d` for _Samsung Duos_, `l` for LG G2 mini)
+* N is the APS identifier of the semaphores (see location1.png and location2.png)
+* S is the side of the street where the recording was taken (`or` for otherside of the APS unit, `s` for next to the APS unit)
+* `yyyy_MM_dd_hh_mm_ss` stands for the date format (24h format) when the recording was taken
 					
-So, for instance `slsem5o2016_10_22_15_39_10.wav` would mean that the recording contains an APS sound, taken by the LG device, on semaphore 5 (Central avenue, Alfredo street), on the opposite side of the street, at 2016_10_22_15_39_10 date time. 
+So,`slsem5o2016_10_22_15_39_10.wav`, for instance, would mean that the recording contains an APS sound, taken by the LG device, on semaphore 5 (Central avenue, Alfredo street), on the opposite side of the street, on October 22th 2016 at 15:39:10. 
 
 # Resampling
 The file `resample.py` contains a python script to standardize the recordings to the desired frequency. The usage is the following:
