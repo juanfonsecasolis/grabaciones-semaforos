@@ -1,16 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-# Proyecto CITIC Semáforos Peatonales 2016
-# Última modificación: Juan Fonseca 16/09/16
-#
-# Referencias:
-# - http://stackoverflow.com/questions/2186525/use-a-glob-to-find-files-recursively-in-python
-# - http://askubuntu.com/questions/377438/how-can-i-recursively-delete-all-files-of-a-specific-extension-in-the-current-di
-# - http://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.decimate.html#scipy.signal.decimate
-# - http://percival-music.ca/teaching/python/labs/lab3.html
-#
-# USO: python remuestrear.py <directorioBase> <nuevaTasaMuestreo>
+# Juan M. Fonseca-Solis
+# USAGE: python remuestrear.py <base directory> <new sampling rate>
 #
 
 import fnmatch
