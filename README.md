@@ -1,6 +1,8 @@
 # Accessible pedestrian signal recordings
 
-Recordings used on the study [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA), originally compiled by Mario Monge Ordonez<sup>1</sup> and Sharon Corrales Montero<sup>1</sup> on 2013 using a _Samsung ACE and Galaxy_. LG recordings were later gathered by Juan Manuel Fonseca-Solís<sup>1,2</sup> on 2017.  
+Recordings used on the studies [ARAPSUAA: Automatic recognition of accessible pedestrian signals using an adaptive approach](https://github.com/juanfonsecasolis/ARAPSUAA) and [Automatic recognition of accessible pedestrian signals](https://doi.org/10.1121/2.0000675). 
+
+The major part of these recordings were originally compiled by Mario Monge Ordonez<sup>1</sup> and Sharon Corrales Montero<sup>1</sup> on 2013 using a _Samsung ACE and Galaxy_, later on, LG recordings were gathered by Juan Manuel Fonseca-Solís<sup>1,2</sup> on 2017.  
 
 ## Affiliations    
 <sup>1</sup> Research Center in Information and Communication Technologies ([CITIC](http://www.citic.ucr.ac.cr/)) at [UCR](https://www.ucr.ac.cr/).  
